@@ -2,5 +2,5 @@
 
 In project directory, you can run:
 
-### `npm start`
+### `node index.js`
 
