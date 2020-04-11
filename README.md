@@ -1,6 +1,6 @@
 # node-test
 
-In the project directory,using terminal, you can run:
+In project directory, you can run:
 
-node index.js
+### `npm install`
 
